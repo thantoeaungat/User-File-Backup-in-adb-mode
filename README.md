@@ -12,3 +12,6 @@ Recorders
 Recordings
 Zapya
 Voice Recorder
+
+အသုံးပြုနည်းကတော့ Developer Option မှာ USB Debugging On ပြီး ကြိုးချိတ်ပေးပါ
+Start Backup ကိုနှိပ်ပါ စတင်သိမ်းသွားပြီး Desktop ပေါ်မှာလာပေါ်ပေးပါလိမ့်မယ်
